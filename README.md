@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ankitha2130
+- 👋 Hi, I’m Ankitha R
 - 👀 I’m interested in Software Development
 - 🌱 I’m contributing to open-source projects
 - Hacktoberfest
